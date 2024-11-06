@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucetouhe.github.io/HoC/sitemap_index.txt
+Sitemap: https://ucetouhe.github.io/Von/sitemap_index.txt
+Sitemap: https://ucetouhe.github.io/grb/sitemap_index.txt
+Sitemap: https://ucetouhe.github.io/ibX/sitemap_index.txt
